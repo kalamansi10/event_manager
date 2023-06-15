@@ -1,0 +1,2 @@
+clean_phone_numbers(contents)
+# hour_most_people_registered(contents)
